@@ -28,6 +28,7 @@
 !kleinefrage
 !kotze
 !learn_something
+!lerrywerbinich
 !losgehts
 !lutscher
 !midas
@@ -44,7 +45,7 @@
 !orgasmus2
 !perser
 !reported
-!scheiﬂe
+!schei√üe
 !schwachkopf
 !shutup
 !sounds_a_bit_arrogant
