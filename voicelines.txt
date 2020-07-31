@@ -35,6 +35,7 @@
 !mmrdoctor
 !mopedmidas
 !motivation
+!motivation2
 !muted
 !muteyou
 !nein
@@ -45,7 +46,7 @@
 !orgasmus2
 !perser
 !reported
-!scheiﬂe
+!schei√üe
 !schwachkopf
 !shutup
 !sounds_a_bit_arrogant
