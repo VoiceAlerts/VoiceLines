@@ -60,6 +60,7 @@
 !toxic
 !ulti
 !uselessallgame
+!versagen
 !viewer
 !whaa
 !whaa2
