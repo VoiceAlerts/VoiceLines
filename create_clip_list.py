@@ -10,6 +10,17 @@ voiceline_titles = []
 for voiceline in voicelines:
     voiceline_titles.append(voiceline.lower().replace('.mp3',''))
 
+block_lines = []
+if os.path.isfile('blocklist.txt'):
+    with open('blocklist.txt') as f:
+        block_lines = f.read().splitlines()
+
+blocklist = list(filter(None, block_lines))
+blocklist = [x.lower() for x in blocklist]
+
+voiceline_titles = [ x for x in voiceline_titles if x not in blocklist ]
+clip_titles = [ x for x in clip_titles if x not in blocklist ]
+
 voiceline_titles.sort()
 clip_titles.sort()
 
