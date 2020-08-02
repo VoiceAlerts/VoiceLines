@@ -31,6 +31,7 @@
 !kekm
 !kleinefrage
 !kotze
+!kurzepause
 !learn
 !lerrywerbinich
 !losgehts
