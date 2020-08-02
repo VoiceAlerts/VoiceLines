@@ -12,6 +12,7 @@
 !darquise
 !disable
 !dontcare
+!doubledown
 !embarrassing
 !erbaermlich
 !fight
