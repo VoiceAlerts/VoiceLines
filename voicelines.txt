@@ -32,6 +32,7 @@
 !kleinefrage
 !kotze
 !kurzepause
+!langepause
 !learn
 !lerrywerbinich
 !losgehts
