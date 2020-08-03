@@ -62,6 +62,7 @@
 !tankit
 !teamwipe
 !throw
+!tilted
 !toxic
 !ulti
 !uselessallgame
