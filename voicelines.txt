@@ -12,6 +12,7 @@
 !darquise
 !disable
 !dontcare
+!dontfight
 !doubledown
 !draftproblem
 !embarrassing
