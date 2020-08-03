@@ -55,6 +55,7 @@
 !reported
 !scheisse
 !schwachkopf
+!schwer
 !shutup
 !sounds_a_bit_arrogant
 !streamende
