@@ -3,6 +3,8 @@ from obswebsocket import obsws, requests
 from shutil import copyfile
 from twitchio.ext import commands
 from playsound import playsound
+from mutagen.mp3 import MP3
+from mutagen.mp4 import MP4
 import subprocess
 import os
 import zmq
@@ -13,20 +15,33 @@ import pyautogui
 import shutil
 import threading, queue
 
-sound_queue = queue.Queue()
+play_queue = queue.Queue()
 
 def sound_worker():
     while True:
-        item = sound_queue.get()
-        print(f'Playing {item}')
-        playsound('C:\\Videos\\voicelines\\'+str(item)+'.mp3', True)
-        print(f'Finished {item}')
-        sound_queue.task_done()
+        item = play_queue.get()
+        if item[0]== 'voice':
+            print(f'Playing voice {item[1]}')
+            try:
+                audio_file = 'C:\\Videos\\voicelines\\'+str(item[1])+'.mp3'
+                audio = MP3(audio_file)
+                playsound(audio_file, False)
+                print("Sleeping for: "+str(audio.info.length))
+                time.sleep(audio.info.length)
+                print(f'Finished {item[1]}')
+            except Exception:
+                pass
+        else:
+            print(f'Playing clip {item[1]}')
+            try:
+                play_clip(str(item[1]))
+            except Exception:
+                pass
+            print(f'Finished {item[1]}')
+        play_queue.task_done()
 
-# turn-on the worker thread
+
 threading.Thread(target=sound_worker, daemon=True).start()
-
-
 my_channel = "obs-control"
 
 host = "localhost"
@@ -47,6 +62,14 @@ voicelines = os.listdir('C:\\Videos\\voicelines')
 voiceline_titles = []
 for voiceline in voicelines:
     voiceline_titles.append(voiceline.lower().replace('.mp3',''))
+
+with open('C:\\Videos\\blocklist.txt') as f:
+    block_lines = f.read().splitlines()
+
+blocklist = list(filter(None, block_lines))
+blocklist = [x.lower() for x in blocklist]
+clip_titles = [ x for x in clip_titles if x not in blocklist ]
+voiceline_titles = [ x for x in voiceline_titles if x not in blocklist ]
 
 #SetSceneItemProperties
 
@@ -77,7 +100,11 @@ def play_clip(name):
     del_file('C:\\Videos\\clip.mp4')
     copy_file('C:\\Videos\\clips\\'+name+'.mp4' , 'C:\\Videos\\clip.mp4')
     time.sleep(0.2)
+    clip = MP4('C:\\Videos\\clip.mp4')
     ws.call(requests.SetSceneItemProperties(item='clip',visible=True))
+    print("Sleeping for "+str(clip.info.length))
+    time.sleep(clip.info.length)
+    ws.call(requests.SetSceneItemProperties(item='clip',visible=False))
 
 class Bot(commands.Bot):
 
@@ -87,20 +114,28 @@ class Bot(commands.Bot):
                          
                          
     async def event_message(self, message):
-        global last_sound_playback, last_clip_playback, sound_queue
+        global last_sound_playback, last_clip_playback, play_queue
         msg_str = time.strftime("[%H:%M:%S] ", time.localtime()) + str(message.author.name) + ": " + message.content
         print(msg_str + " @ " + str(message.channel))
         found = False
+        msg_line = message.content.lower()
+        msg_line = msg_line.replace('ß','ss')
+        msg_line = msg_line.replace('ä','ae')
+        msg_line = msg_line.replace('ü','ue')
+        msg_line = msg_line.replace('ö','oe')
+        if '!' in msg_line:
+            msg_line = msg_line.split()[0]
+        msg_line = msg_line.encode('ascii',errors='ignore').decode()
         for voiceline in voiceline_titles:
-            if message.content.lower() == ("!"+str(voiceline)):
-                if time.time() - last_sound_playback >= 3.:
+            if msg_line == ("!"+str(voiceline)):
+                if time.time() - last_sound_playback >= 1.:
                     last_sound_playback = time.time()
-                    sound_queue.put(str(voiceline))
+                    play_queue.put(['voice', str(voiceline)])
         for clip in clip_titles:
-            if message.content.lower() == ("!"+str(clip)):
-                if time.time() - last_clip_playback >= 30.:
+            if msg_line == ("!"+str(clip)):
+                if time.time() - last_clip_playback >= 120.:
                     last_clip_playback = time.time()
-                    play_clip(str(clip))
+                    play_queue.put(['clip', str(clip)])
 
 
 
