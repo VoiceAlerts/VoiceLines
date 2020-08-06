@@ -48,6 +48,7 @@
 !muted
 !muteyou
 !nein
+!nicecommunity
 !nurschrott
 !omnislash
 !orgasmus1
