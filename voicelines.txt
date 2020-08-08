@@ -71,6 +71,7 @@
 !streamende
 !streamende2
 !stun
+!svongo
 !takeyourtime
 !tankit
 !teamwipe
