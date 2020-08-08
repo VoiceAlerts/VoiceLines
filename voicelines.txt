@@ -6,6 +6,7 @@
 !5k
 !70winrate
 !antimage
+!beruf
 !bescheuert
 !bestplayer
 !danke
@@ -30,6 +31,7 @@
 !hello
 !hellosilence
 !icarried
+!insbett
 !itsembarrassing
 !ja
 !kappalysator
@@ -39,7 +41,6 @@
 !kurzepause
 !langepause
 !learn
-!lerrywerbinich
 !losgehts
 !lutscher
 !midas
