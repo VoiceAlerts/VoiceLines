@@ -43,6 +43,7 @@
 !learn
 !lerrywerbinich
 !losgehts
+!lucky
 !lutscher
 !midas
 !mmrdoctor
