@@ -9,6 +9,7 @@
 !bescheuert
 !bestplayer
 !danke
+!darkseer
 !darquise
 !disable
 !dontcare
