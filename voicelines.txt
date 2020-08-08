@@ -15,6 +15,7 @@
 !dontcare
 !dontfight
 !doubledown
+!doyourjob
 !draftproblem
 !embarrassing
 !erbaermlich
