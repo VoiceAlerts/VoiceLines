@@ -11,6 +11,7 @@
 !danke
 !darkseer
 !darquise
+!darquise2
 !disable
 !dontcare
 !dontfight
