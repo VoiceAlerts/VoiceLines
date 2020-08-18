@@ -34,6 +34,7 @@
 !havetojungle
 !healingward
 !hello
+!hellochen
 !hellosilence
 !icarried
 !insbett
