@@ -24,6 +24,7 @@
 !embarrassing
 !erbaermlich
 !fight
+!freelane
 !fullblown
 !gamelosing
 !geil
@@ -75,6 +76,7 @@
 !selbsterkenntnis
 !shutup
 !sounds_a_bit_arrogant
+!soziopath
 !streamende
 !streamende2
 !stun
