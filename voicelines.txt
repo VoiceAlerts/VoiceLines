@@ -11,6 +11,7 @@
 !beruf
 !bescheuert
 !bestplayer
+!betteln
 !danke
 !darkseer
 !darquise
