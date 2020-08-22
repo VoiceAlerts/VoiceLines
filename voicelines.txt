@@ -93,6 +93,7 @@
 !toxic
 !ulti
 !uselessallgame
+!vernuenftigefrage
 !versagen
 !vielgearbeitet
 !viewer
