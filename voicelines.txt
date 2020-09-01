@@ -80,6 +80,7 @@
 !schwer
 !selbsterkenntnis
 !shutup
+!shutup2
 !sounds_a_bit_arrogant
 !soziopath
 !streamende
