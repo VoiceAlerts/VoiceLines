@@ -5,6 +5,7 @@
 !3min
 !5k
 !70winrate
+!accbuyers
 !aktien
 !aktiengewinne
 !antimage
