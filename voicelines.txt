@@ -38,6 +38,7 @@
 !healingward
 !hello
 !hellochen
+!hellopango
 !hellosilence
 !icarried
 !insbett
