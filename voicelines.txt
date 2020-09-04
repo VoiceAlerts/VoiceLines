@@ -7,6 +7,7 @@
 !70winrate
 !accbuyer
 !accbuyers
+!accbuymentalitaet
 !aktien
 !aktiengewinne
 !antimage
