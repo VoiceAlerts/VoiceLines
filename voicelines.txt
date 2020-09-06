@@ -12,6 +12,7 @@
 !aktiengewinne
 !antimage
 !beruf
+!beruf2
 !bescheuert
 !bestplayer
 !betteln
