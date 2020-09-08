@@ -9,6 +9,7 @@
 !accbuyers
 !accbuymentalitaet
 !aktien
+!aktienerfolg
 !aktiengewinne
 !antimage
 !beruf
