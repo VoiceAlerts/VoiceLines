@@ -63,6 +63,7 @@
 !mmrdoctor
 !mopedmidas
 !mopsi
+!mopsiclip
 !motivation
 !motivation2
 !motivation3
