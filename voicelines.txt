@@ -17,6 +17,7 @@
 !bescheuert
 !bestplayer
 !betteln
+!crave
 !danke
 !darkseer
 !darquise
