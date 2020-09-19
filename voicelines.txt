@@ -53,6 +53,7 @@
 !ja2
 !kappalysator
 !kekm
+!kekm2
 !kleinefrage
 !kotze
 !kurzepause
