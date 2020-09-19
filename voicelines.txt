@@ -11,6 +11,7 @@
 !aktien
 !aktienerfolg
 !aktiengewinne
+!anfall
 !antimage
 !beruf
 !beruf2
