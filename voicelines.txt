@@ -116,6 +116,7 @@
 !whaa2
 !wichskopf
 !winrate
+!wochenenddota
 !wodka
 !wonyougame
 !wurst
