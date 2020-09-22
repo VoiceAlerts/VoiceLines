@@ -103,6 +103,7 @@
 !svongo
 !takeyourtime
 !tankit
+!teamneedsyou
 !teamwipe
 !throw
 !tilted
