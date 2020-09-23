@@ -97,6 +97,7 @@
 !shutup2
 !sounds_a_bit_arrogant
 !soziopath
+!sponsoring
 !streamende
 !streamende2
 !stun
