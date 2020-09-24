@@ -17,6 +17,7 @@
 !beruf
 !beruf2
 !bescheuert
+!bestellkosten
 !bestplayer
 !betteln
 !crave
