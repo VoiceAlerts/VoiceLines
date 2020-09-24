@@ -123,6 +123,7 @@
 !wochenenddota
 !wodka
 !wonyougame
+!woranhatsgelegen
 !wurst
 !yhm
 !zurechtverloren
