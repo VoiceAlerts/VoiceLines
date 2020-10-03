@@ -102,6 +102,7 @@
 !streamende
 !streamende2
 !stun
+!subs
 !svongo
 !takeyourtime
 !tankit
