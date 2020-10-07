@@ -111,6 +111,7 @@
 !teamwipe
 !throw
 !tilted
+!tipp
 !toxic
 !ulti
 !uselessallgame
