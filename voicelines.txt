@@ -13,6 +13,7 @@
 !aktiengewinne
 !anfall
 !antimage
+!ausgesorgt
 !badantimage
 !beruf
 !beruf2
