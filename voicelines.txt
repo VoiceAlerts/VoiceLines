@@ -1,133 +1,133 @@
-!100euro
-!10er_kda
-!1reason
-!3cores
-!3min
-!5k
-!70winrate
-!accbuyer
-!accbuyers
-!accbuymentalitaet
-!aktien
-!aktienerfolg
-!aktiengewinne
-!anfall
-!antimage
-!ausgesorgt
-!badantimage
-!beruf
-!beruf2
-!bescheuert
-!bestellkosten
-!bestellkosten2
-!bestplayer
-!betteln
-!crave
-!danke
-!darkseer
-!darquise
-!darquise2
-!disable
-!dontcare
-!dontfight
-!doubledown
-!doyourjob
-!draftproblem
-!embarrassing
-!erbaermlich
-!experiment
-!fight
-!freelane
-!fullblown
-!gamelosing
-!geil
-!gero
-!gero2
-!gruppevonleuten
-!havetojungle
-!healingward
-!hello
-!hellochen
-!hellopango
-!hellosilence
-!icarried
-!insbett
-!itsembarrassing
-!ja
-!ja2
-!kappalysator
-!kekm
-!kekm2
-!kleinefrage
-!kotze
-!kurzepause
-!langepause
-!learn
-!losgehts
-!lowpriority
-!lucky
-!lutscher
-!midas
-!mmrdoctor
-!mopedmidas
-!mopedtobias
-!mopsi
-!mopsiclip
-!motivation
-!motivation2
-!motivation3
-!motivation4
-!motivation5
-!muell
-!muted
-!muteyou
-!nein
-!nicecommunity
-!nocarry
-!noobstuff
-!nurschrott
-!omnislash
-!orgasmus1
-!orgasmus2
-!perser
-!psst
-!reported
-!scheisse
-!schwachkopf
-!schwer
-!selbsterkenntnis
-!shutup
-!shutup2
-!sounds_a_bit_arrogant
-!soziopath
-!sponsoring
-!streamende
-!streamende2
-!stun
-!subs
-!svongo
-!takeyourtime
-!tankit
-!teamneedsyou
-!teamwipe
-!throw
-!tilted
-!tipp
-!toxic
-!ulti
-!uselessallgame
-!vernuenftigefrage
-!versagen
-!vielgearbeitet
-!viewer
-!whaa
-!whaa2
-!wichskopf
-!winrate
-!wochenenddota
-!wodka
-!wonyougame
-!woranhatsgelegen
-!wurst
-!yhm
-!zurechtverloren
++ 100euro
++ 10er_kda
++ 1reason
++ 3cores
++ 3min
++ 5k
++ 70winrate
++ accbuyer
++ accbuyers
++ accbuymentalitaet
++ aktien
++ aktienerfolg
++ aktiengewinne
++ anfall
++ antimage
++ ausgesorgt
++ badantimage
++ beruf
++ beruf2
++ bescheuert
++ bestellkosten
++ bestellkosten2
++ bestplayer
++ betteln
++ crave
++ danke
++ darkseer
++ darquise
++ darquise2
++ disable
++ dontcare
++ dontfight
++ doubledown
++ doyourjob
++ draftproblem
++ embarrassing
++ erbaermlich
++ experiment
++ fight
++ freelane
++ fullblown
++ gamelosing
++ geil
++ gero
++ gero2
++ gruppevonleuten
++ havetojungle
++ healingward
++ hello
++ hellochen
++ hellopango
++ hellosilence
++ icarried
++ insbett
++ itsembarrassing
++ ja
++ ja2
++ kappalysator
++ kekm
++ kekm2
++ kleinefrage
++ kotze
++ kurzepause
++ langepause
++ learn
++ losgehts
++ lowpriority
++ lucky
++ lutscher
++ midas
++ mmrdoctor
++ mopedmidas
++ mopedtobias
++ mopsi
++ mopsiclip
++ motivation
++ motivation2
++ motivation3
++ motivation4
++ motivation5
++ muell
++ muted
++ muteyou
++ nein
++ nicecommunity
++ nocarry
++ noobstuff
++ nurschrott
++ omnislash
++ orgasmus1
++ orgasmus2
++ perser
++ psst
++ reported
++ scheisse
++ schwachkopf
++ schwer
++ selbsterkenntnis
++ shutup
++ shutup2
++ sounds_a_bit_arrogant
++ soziopath
++ sponsoring
++ streamende
++ streamende2
++ stun
++ subs
++ svongo
++ takeyourtime
++ tankit
++ teamneedsyou
++ teamwipe
++ throw
++ tilted
++ tipp
++ toxic
++ ulti
++ uselessallgame
++ vernuenftigefrage
++ versagen
++ vielgearbeitet
++ viewer
++ whaa
++ whaa2
++ wichskopf
++ winrate
++ wochenenddota
++ wodka
++ wonyougame
++ woranhatsgelegen
++ wurst
++ yhm
++ zurechtverloren

@@ -26,10 +26,10 @@ clip_titles.sort()
 
 f= open("voicelines.txt","w+")
 for voice in voiceline_titles:
-    f.write("!"+voice+"\n")
+    f.write("+ "+voice+"\n")
 f.close()
 
 f= open("clips.txt","w+")
 for clip in clip_titles:
-    f.write("!"+clip+"\n")
+    f.write("+ "+clip+"\n")
 f.close()
