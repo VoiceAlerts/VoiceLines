@@ -19,6 +19,7 @@
 !beruf2
 !bescheuert
 !bestellkosten
+!bestellkosten2
 !bestplayer
 !betteln
 !crave
@@ -62,7 +63,6 @@
 !kurzepause
 !langepause
 !learn
-!lerrywerbinich
 !losgehts
 !lowpriority
 !lucky
