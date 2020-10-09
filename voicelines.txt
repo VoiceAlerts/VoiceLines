@@ -13,6 +13,7 @@
 + aktiengewinne
 + anfall
 + antimage
++ augenop
 + ausgesorgt
 + badantimage
 + beruf
@@ -63,6 +64,7 @@
 + kurzepause
 + langepause
 + learn
++ lerrywerbinich
 + losgehts
 + lowpriority
 + lucky
