@@ -109,6 +109,7 @@
 + schwer
 + selbsterkenntnis
 + selbsterkenntnis2
++ selbsterkenntnis3
 + shutup
 + shutup2
 + sounds_a_bit_arrogant
@@ -131,6 +132,7 @@
 + uselessallgame
 + vernuenftigefrage
 + versagen
++ verschaetzt
 + vielgearbeitet
 + viewer
 + warum
