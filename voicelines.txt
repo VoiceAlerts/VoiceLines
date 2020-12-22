@@ -17,6 +17,7 @@
 + augenop
 + ausgesorgt
 + autsch
++ autsch2
 + badantimage
 + beruf
 + beruf2
