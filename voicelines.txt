@@ -18,6 +18,7 @@
 + ausgesorgt
 + autsch
 + autsch2
++ autsch3
 + badantimage
 + beruf
 + beruf2
