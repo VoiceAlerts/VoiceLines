@@ -99,6 +99,7 @@
 + nachlaessig
 + nein
 + nicecommunity
++ no
 + nocarry
 + noobstuff
 + nurschrott
