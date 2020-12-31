@@ -67,6 +67,7 @@
 + ja
 + ja2
 + jahresvorsatz
++ justlost
 + kappalysator
 + kekm
 + kekm2
