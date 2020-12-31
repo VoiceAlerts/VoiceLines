@@ -76,6 +76,7 @@
 + klingonenhans
 + kotze
 + kurzepause
++ kys
 + langepause
 + learn
 + lerrywerbinich
