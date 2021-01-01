@@ -22,6 +22,8 @@
 + autsch3
 + autsch4
 + badantimage
++ badinvoker
++ badinvoker2
 + beruf
 + beruf2
 + bescheuert
@@ -48,6 +50,7 @@
 + freelane
 + fullblown
 + gamelosing
++ gameplan
 + geil
 + gero
 + gero2
@@ -109,8 +112,10 @@
 + nicecommunity
 + nocarry
 + nonono
++ noo
 + noobstuff
 + nurschrott
++ nutzlos
 + omnislash
 + orgasmus1
 + orgasmus2
@@ -123,6 +128,7 @@
 + sau
 + scheisse
 + schwachkopf
++ schwaeche
 + schwer
 + selbsterkenntnis
 + selbsterkenntnis2
@@ -165,6 +171,7 @@
 + wichskopf
 + winrate
 + wochenenddota
++ wochenenddota2
 + wodka
 + wonyougame
 + woranhatsgelegen
