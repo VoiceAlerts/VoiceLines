@@ -12,6 +12,7 @@
 + aktien
 + aktienerfolg
 + aktiengewinne
++ allesgut
 + anfall
 + antimage
 + augenop
@@ -19,6 +20,7 @@
 + autsch
 + autsch2
 + autsch3
++ autsch4
 + badantimage
 + beruf
 + beruf2
@@ -113,6 +115,7 @@
 + orgasmus2
 + perser
 + psst
++ realtalk
 + reported
 + retard
 + ritter
