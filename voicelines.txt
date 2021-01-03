@@ -22,6 +22,8 @@
 + autsch3
 + autsch4
 + badantimage
++ badinvoker
++ badinvoker2
 + beruf
 + beruf2
 + bescheuert
@@ -34,6 +36,7 @@
 + darkseer
 + darquise
 + darquise2
++ deinemeinung
 + disable
 + dontcare
 + dontfight
@@ -43,11 +46,13 @@
 + embarrassing
 + erbaermlich
 + erbaermlich2
++ erektion
 + experiment
 + fight
 + freelane
 + fullblown
 + gamelosing
++ gameplan
 + geil
 + gero
 + gero2
@@ -62,6 +67,7 @@
 + hellopango
 + hellosilence
 + hihi
++ hmhmhm
 + icarried
 + idiot
 + insbett
@@ -109,8 +115,10 @@
 + nicecommunity
 + nocarry
 + nonono
++ noo
 + noobstuff
 + nurschrott
++ nutzlos
 + omnislash
 + orgasmus1
 + orgasmus2
@@ -123,6 +131,7 @@
 + sau
 + scheisse
 + schwachkopf
++ schwaeche
 + schwer
 + selbsterkenntnis
 + selbsterkenntnis2
@@ -159,6 +168,7 @@
 + viewer
 + warum
 + weebalarm
++ weihnachtsgeschenk
 + welldone
 + whaa
 + whaa2
@@ -166,6 +176,7 @@
 + wichskopf
 + winrate
 + wochenenddota
++ wochenenddota2
 + wodka
 + wonyougame
 + woranhatsgelegen
