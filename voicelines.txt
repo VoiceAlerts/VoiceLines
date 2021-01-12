@@ -43,6 +43,7 @@
 + disable
 + dontcare
 + dontfight
++ donttalk
 + doubledown
 + doyourjob
 + draftproblem
