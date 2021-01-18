@@ -93,6 +93,7 @@
 + kekm5
 + kleinefrage
 + klingonenhans
++ kommindiegruppe
 + kotze
 + kurzepause
 + kys
@@ -136,6 +137,7 @@
 + psst
 + realtalk
 + reported
++ reposten
 + retard
 + ritter
 + sau
