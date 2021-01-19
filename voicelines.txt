@@ -114,6 +114,7 @@
 + midas
 + mmrdoctor
 + mopedmidas
++ mopedmorph
 + mopedtobias
 + mopsi
 + mopsiclip
