@@ -47,6 +47,7 @@
 + dontcare
 + dontfight
 + donttalk
++ dotafan
 + doubledown
 + doyourjob
 + draftproblem
