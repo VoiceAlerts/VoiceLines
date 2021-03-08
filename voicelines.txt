@@ -122,6 +122,7 @@
 + mmrdoctor
 + mopedmidas
 + mopedmorph
++ mopedtinker2
 + mopedtobias
 + mopsi
 + mopsi2
