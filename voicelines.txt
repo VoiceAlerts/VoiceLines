@@ -35,6 +35,7 @@
 + bestellkosten2
 + bestplayer
 + betteln
++ brot
 + chillbro
 + crave
 + danke
