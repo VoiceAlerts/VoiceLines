@@ -105,6 +105,7 @@
 + kleinefrage
 + klingonenhans
 + klugscheisser
++ kommindiegruppe
 + kotze
 + kurzepause
 + kys
@@ -218,6 +219,7 @@
 + wochenenddota
 + wochenenddota2
 + wodka
++ wohinaufdermap
 + wonyougame
 + woranhatsgelegen
 + wurst
