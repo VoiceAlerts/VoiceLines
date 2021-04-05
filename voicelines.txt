@@ -1,4 +1,4 @@
-+ 100euro
++ 100Euro
 + 10er_kda
 + 1reason
 + 3cores
@@ -55,6 +55,7 @@
 + doyourjob
 + draftproblem
 + dubisteiner
++ dumm
 + eichel
 + embarrassing
 + empfehlung
@@ -112,7 +113,7 @@
 + kys
 + langepause
 + learn
-+ lerrywerbinich
++ lerryWerBinIch
 + losgehts
 + lowpriority
 + lucky
@@ -205,6 +206,7 @@
 + trash
 + travels
 + ulti
++ ulti2
 + uselessallgame
 + vernuenftigefrage
 + vernuenftigefrage2
