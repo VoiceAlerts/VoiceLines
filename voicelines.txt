@@ -1,4 +1,4 @@
-+ 100Euro
++ 100euro
 + 10er_kda
 + 1reason
 + 3cores
@@ -113,7 +113,7 @@
 + kys
 + langepause
 + learn
-+ lerryWerBinIch
++ lerrywerbinich
 + losgehts
 + lowpriority
 + lucky
@@ -144,6 +144,7 @@
 + nein
 + nicecommunity
 + nocarry
++ nocheinwort
 + nonono
 + noo
 + noobstuff
