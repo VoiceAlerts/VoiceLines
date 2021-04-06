@@ -10,6 +10,7 @@
 + accbuyers
 + accbuymentalitaet
 + aergertmich
++ afk
 + aktien
 + aktienerfolg
 + aktiengewinne
