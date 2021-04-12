@@ -227,6 +227,7 @@
 + winrate
 + wochenenddota
 + wochenenddota2
++ wochenendig
 + wodka
 + wohinaufdermap
 + wonyougame
