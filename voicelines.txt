@@ -114,13 +114,12 @@
 + kleinefrage
 + klingonenhans
 + klugscheisser
-+ kommindiegruppe
++ knowledgebombleversion
 + kotze
 + kurzepause
 + kys
 + langepause
 + learn
-+ lerrywerbinich
 + losgehts
 + lowpriority
 + lucky
