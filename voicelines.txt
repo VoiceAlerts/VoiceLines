@@ -221,6 +221,7 @@
 + streamende2
 + studium
 + stun
++ stundepause
 + subs
 + suppe
 + svongo
