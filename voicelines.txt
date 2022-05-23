@@ -105,6 +105,7 @@
 + incel
 + insbett
 + insbett2
++ internetprobleme
 + itsembarrassing
 + ja
 + ja2
@@ -135,6 +136,7 @@
 + lutscher
 + matchmaking
 + matt
++ matt2
 + mehrstreamen
 + meinewinrate
 + meinewinrate2
@@ -216,6 +218,7 @@
 + steuertricks
 + streamende
 + streamende2
++ studium
 + stun
 + subs
 + suppe
@@ -229,6 +232,7 @@
 + teamneedsyou
 + teamwipe
 + techiesspammer
++ thihihi
 + throw
 + tilted
 + tipp
