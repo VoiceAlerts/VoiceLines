@@ -1,6 +1,8 @@
 + 100euro
 + 10er_kda
 + 1reason
++ 1stundereservebank
++ 2k
 + 3cores
 + 3min
 + 5k
@@ -104,6 +106,7 @@
 + incel
 + insbett
 + insbett2
++ internetprobleme
 + itsembarrassing
 + ja
 + ja2
@@ -134,6 +137,7 @@
 + lutscher
 + matchmaking
 + matt
++ matt2
 + mehrstreamen
 + meinewinrate
 + meinewinrate2
@@ -215,7 +219,9 @@
 + steuertricks
 + streamende
 + streamende2
++ studium
 + stun
++ stundepause
 + subs
 + suppe
 + svongo
@@ -228,6 +234,7 @@
 + teamneedsyou
 + teamwipe
 + techiesspammer
++ thihihi
 + throw
 + tilted
 + tipp
@@ -251,6 +258,7 @@
 + weebalarm
 + weihnachtsgeschenk
 + welldone
++ westringers
 + whaa
 + whaa2
 + whaa3
@@ -269,5 +277,6 @@
 + wtf
 + wurst
 + yhm
++ youfuckingidiot2
 + youtubeniklas
 + zurechtverloren
